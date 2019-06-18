@@ -1,0 +1,10 @@
+C:\Users\Andrew\source\repos\Bank\Bank\bin\Debug\Bank.exe.config
+C:\Users\Andrew\source\repos\Bank\Bank\bin\Debug\Bank.exe
+C:\Users\Andrew\source\repos\Bank\Bank\bin\Debug\Bank.pdb
+C:\Users\Andrew\source\repos\Bank\Bank\obj\Debug\Bank.csprojAssemblyReference.cache
+C:\Users\Andrew\source\repos\Bank\Bank\obj\Debug\Bank.Bank.resources
+C:\Users\Andrew\source\repos\Bank\Bank\obj\Debug\Bank.Properties.Resources.resources
+C:\Users\Andrew\source\repos\Bank\Bank\obj\Debug\Bank.csproj.GenerateResource.cache
+C:\Users\Andrew\source\repos\Bank\Bank\obj\Debug\Bank.csproj.CoreCompileInputs.cache
+C:\Users\Andrew\source\repos\Bank\Bank\obj\Debug\Bank.exe
+C:\Users\Andrew\source\repos\Bank\Bank\obj\Debug\Bank.pdb
